@@ -25,3 +25,4 @@ To build HTML locally::
 
 To build for GitHub::
     $ make github
+
